@@ -3,3 +3,5 @@
 Airplane_Data/
 /data
 starting_data.h5
+training_data.h5
+test_image
